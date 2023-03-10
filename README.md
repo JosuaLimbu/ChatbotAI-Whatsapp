@@ -16,7 +16,7 @@ $ cd ChatbotAI-Whatsapp
 $ npm install
 $ npm start
 ```
-- Sesudah anda ```npm start```, tunggu beberapa saat dan akan muncul barcode di terminal. Lalu, buka whatsapp ands dan ke menu perangkat tertaut, setelah itu scan barcode yang ada di terminal.
+- Sesudah anda melakukan ```npm start```, tunggu beberapa saat dan akan muncul barcode di terminal. Lalu, buka whatsapp anda, dan ke menu perangkat tertaut, setelah itu scan barcode yang ada di terminal.
 - Chat nomor yang ditautkan menggunakan nomor lain.
 
 
