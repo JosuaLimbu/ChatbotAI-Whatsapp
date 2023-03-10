@@ -2,7 +2,7 @@
 Simple Example WhatsApp Bot with NodeJS and Baileys Library
 ## Get & Change ChatbotAI ApiKey
 - Silakan buat apikeynya terlebih dahulu [Disini](https://beta.openai.com/account/api-keys)
-- Ganti ApiKey OpenAI pada file tes.js
+- Ganti ApiKey OpenAI pada file **tes.js** dan **josua.js**
 ## Install
 **Install on Windows**
 
