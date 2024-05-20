@@ -4,16 +4,16 @@ This project involves creating a simple WhatsApp bot using Node.js and the Baile
 
 ## Get & Change ChatbotAI ApiKey
 
-- Silakan buat apikeynya terlebih dahulu [Disini](https://beta.openai.com/account/api-keys)
-- Ganti ApiKey OpenAI pada file **tes.js** dan **josua.js**
+- Please create your API key first [here](https://beta.openai.com/account/api-keys)
+- Replace the OpenAI API key in the **tes.js** and **josua.js** files
 
 ## Install
 
 **Install on Windows**
 
-Install [NodeJS](https://nodejs.org/en/download/) dan [Git Bash](https://git-scm.com/downloads) terlebih dahulu
+Install [NodeJS](https://nodejs.org/en/download/) and [Git Bash](https://git-scm.com/downloads) first
 
-Setelah itu, buka git bash lalu ikuti perintah berikut
+After that, open Git Bash and follow these commands:
 
 ```bash
 $ git clone https://github.com/JosuaLimbu/ChatbotAI-Whatsapp.git
@@ -22,5 +22,5 @@ $ npm install
 $ npm start
 ```
 
-- Sesudah anda melakukan `npm start`, tunggu beberapa saat dan akan muncul barcode di terminal. Lalu, buka whatsapp anda, dan ke menu perangkat tertaut, setelah itu scan barcode yang ada di terminal.
-- Chat nomor yang ditautkan menggunakan nomor lain.
+- After you run `npm start`, wait for a moment and a barcode will appear in the terminal. Then, open your WhatsApp, go to the linked devices menu, and scan the barcode displayed in the terminal.
+- Chat with the linked number using another number.
